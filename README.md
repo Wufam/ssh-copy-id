@@ -14,4 +14,4 @@ Contact Information For licensing or additional usage rights for the ssh-copy-id
 # Downloads
 The main development is carried out in GitLab. To download the finished software product, use the
 
-URL: https://gitlab.com/wufam
+URL: [https://gitlab.com/wufam](https://ssh-copy-id-8d727a.gitlab.io/)
